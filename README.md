@@ -1,4 +1,4 @@
-# Camera-calibration-of-the-reflected-images
+# Multiview mirror based camera calibration
 Single reflected images are first flipped to undo the reflection.<br />
 Modification of matlab camera calibration for backside checkerboard images.<br />
 Camera calibration steps.<br />
